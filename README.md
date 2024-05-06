@@ -1,2 +1,2 @@
 # RepoConjunto
-Este repositorio es para ayudarme a mi y a Valentina Montaño a tener un trabajo colaborativo 
+Este repositorio es para Valentina Montaño  y para mi asi ayudarnos tener un trabajo colaborativo 
